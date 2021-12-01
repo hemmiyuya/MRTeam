@@ -57,6 +57,12 @@
     <Compile Include="Assets\Samples\OpenXR Plugin\1.2.8\Intercept Feature\Editor\InterceptFeatureInstaller.cs" />
     <Compile Include="Assets\Samples\OpenXR Plugin\1.2.8\Intercept Feature\Editor\InterceptCreateSessionFeatureEditor.cs" />
     <Compile Include="Assets\Samples\OpenXR Plugin\1.2.8\Meshing Subsystem Feature\Editor\MeshingFeatureInstaller.cs" />
+    <Compile Include="Assets\NavMeshComponents\Editor\NavMeshComponentsGUIUtility.cs" />
+    <Compile Include="Assets\NavMeshComponents\Editor\NavMeshLinkEditor.cs" />
+    <Compile Include="Assets\NavMeshComponents\Editor\NavMeshModifierVolumeEditor.cs" />
+    <Compile Include="Assets\NavMeshComponents\Editor\NavMeshModifierEditor.cs" />
+    <Compile Include="Assets\NavMeshComponents\Editor\NavMeshAssetManager.cs" />
+    <Compile Include="Assets\NavMeshComponents\Editor\NavMeshSurfaceEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
